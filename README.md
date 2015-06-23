@@ -1,0 +1,2 @@
+# digitalsignage
+base digital signage
